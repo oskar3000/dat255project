@@ -52,6 +52,8 @@ public class DetailedViewPresenter {
     public ChoiceBox locationstatefromlocationnamecoicebox;
     public ChoiceBox locationstatetolocationnamechoicebox;
     public ChoiceBox servicestatelocationnamechoicebox;
+    public ChoiceBox servicestatetolocationtype;
+    public ChoiceBox servicestatetolocationname;
 
     private PortCallManager pcmanager;
     private StatementReader reader;
